@@ -26,7 +26,7 @@ type: home
 
 &emsp; **Thời gian thực tập:** Từ ngày 16/04/2025 đến ngày 16/07/2026
 
-![Ảnh đại diện của bạn](/images/z7677182220412_9cbe05321a79352b0fcc6355474fbc51.jpg)
+![Ảnh đại diện của bạn](images/z7677182220412_9cbe05321a79352b0fcc6355474fbc51.jpg)
 
 
 

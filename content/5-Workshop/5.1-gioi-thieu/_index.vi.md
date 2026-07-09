@@ -27,6 +27,6 @@ Workshop xây dựng **LMS-Management-System** — một hệ thống quản lý
 **Yêu cầu chuẩn bị:** Tài khoản AWS, một tên miền quản lý bằng CloudFlare, key pair EC2 (ở đây là `Khanh.pem`), và mã nguồn LMS trên GitHub (frontend + backend dạng monorepo).
 {{% /notice %}}
 
-![Kiến trúc tổng thể hệ thống LMS trên AWS](/images/1.png)
+![Kiến trúc tổng thể hệ thống LMS trên AWS](images/1.png)
 
 </div>

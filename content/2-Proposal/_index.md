@@ -42,7 +42,7 @@ The proposed solution uses a cloud-native AWS architecture that separates the fr
 
 The proposed architecture is shown below:
 
-![AWS Web Application Architecture](/images/1.png)
+![AWS Web Application Architecture](images/1.png)
 
 Main request flow:
 

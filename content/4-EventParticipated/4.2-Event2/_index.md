@@ -283,4 +283,4 @@ This plan turns the event knowledge into concrete actions. The greatest value of
 
 ## Evidence photo
 
-![Evidence photo from AWS Community Day Vietnam](/images/aws-community-day-evidence.jpg)
+![Evidence photo from AWS Community Day Vietnam](images/aws-community-day-evidence.jpg)

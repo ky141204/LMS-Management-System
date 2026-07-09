@@ -333,4 +333,4 @@ This 12-week plan keeps cloud learning consistent from fundamentals and service 
 
 ## Evidence photo
 
-![Evidence photo from FCAJ - HUTECH KICKOFF](/images/fcaj-hutech-kickoff-evidence.jpg)
+![Evidence photo from FCAJ - HUTECH KICKOFF](images/fcaj-hutech-kickoff-evidence.jpg)

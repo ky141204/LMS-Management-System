@@ -61,7 +61,7 @@ Khi bạn tạo một kết nối riêng tư, quá trình diễn ra theo thứ t
 
 ## 3. Kiến trúc tổng thể
 
-![Kiến trúc kết nối riêng tư AWS DevOps Agent với VPC](/images/devops_agent_private_connection.png)
+![Kiến trúc kết nối riêng tư AWS DevOps Agent với VPC](images/devops_agent_private_connection.png)
 
 ### Luồng hoạt động (End-to-End Flow)
 

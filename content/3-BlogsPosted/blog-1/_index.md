@@ -36,7 +36,7 @@ When organizations scale SaaS (Software as a Service) systems to hundreds or tho
 
 This approach uses configuration key prefixes, such as `tenant_config_` or `param_config_`, to automatically route configuration requests to the most suitable AWS storage service through a **Config Strategy Factory** design.
 
-![Overall architecture of the multi-tenant configuration system on AWS](/images/multi_tenant_architecture.png)
+![Overall architecture of the multi-tenant configuration system on AWS](images/multi_tenant_architecture.png)
 
 ### End-to-End Workflow
 

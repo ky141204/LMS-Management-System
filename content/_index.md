@@ -25,7 +25,7 @@ type: home
 
 &emsp; **Internship Period:** From 16/04/2025 to 16/07/2026
 
-![Profile Photo](/images/z7677182220412_9cbe05321a79352b0fcc6355474fbc51.jpg)
+![Profile Photo](images/z7677182220412_9cbe05321a79352b0fcc6355474fbc51.jpg)
 
 ### Report Contents
 

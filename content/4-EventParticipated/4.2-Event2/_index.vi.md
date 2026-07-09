@@ -253,5 +253,5 @@ Kế hoạch này giúp biến kiến thức từ hội thảo thành hành đ�
 
 ## Ảnh minh chứng
 
-![Ảnh minh chứng tham gia AWS Community Day Vietnam](/images/aws-community-day-evidence.jpg)
+![Ảnh minh chứng tham gia AWS Community Day Vietnam](images/aws-community-day-evidence.jpg)
 

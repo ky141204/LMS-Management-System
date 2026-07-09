@@ -36,7 +36,7 @@ Khi các tổ chức mở rộng quy mô hệ thống SaaS (Software as a Servic
 
 Phương pháp này sử dụng tiền tố khóa cấu hình (ví dụ: `tenant_config_` hoặc `param_config_`) để tự động định tuyến các yêu cầu cấu hình đến dịch vụ lưu trữ AWS phù hợp nhất thông qua thiết kế **Config Strategy Factory**.
 
-![Kiến trúc tổng thể hệ thống cấu hình đa đối tượng thuê trên AWS](/images/multi_tenant_architecture.png)
+![Kiến trúc tổng thể hệ thống cấu hình đa đối tượng thuê trên AWS](images/multi_tenant_architecture.png)
 
 ### Sơ đồ luồng hoạt động (End-to-End Workflow)
 Dựa trên sơ đồ kiến trúc tổng thể, luồng xử lý yêu cầu và cập nhật diễn ra thông qua 13 bước chặt chẽ:

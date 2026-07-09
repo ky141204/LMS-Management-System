@@ -27,6 +27,6 @@ This workshop builds **LMS-Management-System**, a complete online learning manag
 **Prerequisites:** An AWS account, a domain managed in CloudFlare, an EC2 key pair (in this workshop, `Khanh.pem`), and the LMS source code on GitHub (frontend + backend in a monorepo).
 {{% /notice %}}
 
-![Overall LMS system architecture on AWS](/images/1.png)
+![Overall LMS system architecture on AWS](images/1.png)
 
 </div>

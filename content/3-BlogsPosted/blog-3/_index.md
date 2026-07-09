@@ -96,7 +96,7 @@ Amazon Q Developer in Chat applications sends the alert to a Slack channel.
 
 ## 3. Overall architecture
 
-![Proactive monitoring architecture for Amazon Redshift Serverless with AWS Lambda and Slack alerts](/images/Screenshot_2026-07-03_161351.png)
+![Proactive monitoring architecture for Amazon Redshift Serverless with AWS Lambda and Slack alerts](images/Screenshot_2026-07-03_161351.png)
 
 ### End-to-End Flow
 

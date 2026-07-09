@@ -63,7 +63,7 @@ When you create a private connection, the process happens in this order:
 
 ## 3. Overall architecture
 
-![AWS DevOps Agent private connection architecture with VPC](/images/devops_agent_private_connection.png)
+![AWS DevOps Agent private connection architecture with VPC](images/devops_agent_private_connection.png)
 
 ### End-to-End Flow
 

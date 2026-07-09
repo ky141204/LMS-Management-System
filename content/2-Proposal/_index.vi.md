@@ -42,7 +42,7 @@ Giải pháp sử dụng kiến trúc cloud-native trên AWS để tách riêng 
 
 Kiến trúc tổng thể của hệ thống được mô tả như sau:
 
-![Kiến trúc Web LMS trên AWS](/images/1.png)
+![Kiến trúc Web LMS trên AWS](images/1.png)
 
 Luồng xử lý chính:
 

@@ -87,7 +87,7 @@ Amazon Q Developer in Chat applications gửi cảnh báo đến kênh Slack.
 
 ## 3. Kiến trúc tổng thể
 
-![Kiến trúc Giám sát chủ động cho Amazon Redshift Serverless bằng AWS Lambda và cảnh báo Slack](/images/Screenshot_2026-07-03_161351.png)
+![Kiến trúc Giám sát chủ động cho Amazon Redshift Serverless bằng AWS Lambda và cảnh báo Slack](images/Screenshot_2026-07-03_161351.png)
 
 ### Luồng hoạt động (End-to-End Flow)
 
